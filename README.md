@@ -1,4 +1,4 @@
-# SuiteScript é a plataforma NetSuite construída em JavaScript que permite personalização e automação completas de processos de negócios. Usando as APIs do SuiteScript, os principais registros de negócios e informações do usuário podem ser acessados e manipulados por meio de scripts executados em eventos predefinidos
+SuiteScript é a plataforma NetSuite construída em JavaScript que permite personalização e automação completas de processos de negócios. Usando as APIs do SuiteScript, os principais registros de negócios e informações do usuário podem ser acessados e manipulados por meio de scripts executados em eventos predefinidos
 
 Suitelet = Crie aplicativos da Web interativos com scripts de requisições da Web
 RESTlet	= Desenvolver serviços da Web RESTful personalizados
